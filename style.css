@@ -1,5 +1,20 @@
 /* Açıklama  */
 *  {color: blue;}
-h2 {color: crimson; font-size: 25px;}
-body{background-color: darkgray;}
+h1, h2, h3, h4, h5, h6 {color: crimson;
+     font-size: 25px;
+    ;}
+
+
+body{background-color: rgb(177, 175, 175);
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 1em;
+}
+
 a {color: black;}
+
+ul li {color: black;
+    list-style:circle;}
+hr {
+    border: 2px dotted blue;
+}
